@@ -1,0 +1,34 @@
+Hmmm So I am a new learner and Currently I am learning C++.
+
+Basic Structure:
+  #include<iostream>
+
+  int main(){
+  return 0;
+  }
+
+
+
+
+So every single line of code you write is written above return 0; and under the Curly Brackets. And you put a ; after every line.
+
+
+
+
+
+THE PRINT FUNCTION
+
+So to print something you write cout and then two  << and then Double Quotes and content between them "..." and then put a ;.
+
+
+For eg:
+  #include<iostream>
+
+  int main(){
+      std::cout<<"Hello World";
+      return 0;
+  }
+  
+  
+Here std is a namespace.
+ 
